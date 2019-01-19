@@ -19,3 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+
+@TODO,
+activate functions
+Add List own project
+Fix terminal
+dynamic timeline
